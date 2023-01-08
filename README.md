@@ -6,11 +6,11 @@ The android application allows for bluetooth connection to the robot, control th
 ## Documentation 
 
 ## Developed by
-1. BACHHAS NIKITA 
-2. GOH TSE YINN, SHERYL
-3. LAM TING EN
-4. LIM JIEXIAN
-5. Lam Tingen
-6. RYAN PHUAY QIAN HAO
-7. WILSON TEE TEO HONG
-8. YEO KAI LIANG, JASPER
+1. Bachhas Nikita 
+2. Goh Tse Yinn, Sheryl
+3. Lam Ting En
+4. Lim Jiexian
+5. Ryan Phuay Qian Hao
+6. Wilson Tee Teo Hong
+7. Yeo Kai Liang, Jasper
+8. Yew Fu Yen
