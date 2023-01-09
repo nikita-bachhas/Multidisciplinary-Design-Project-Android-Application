@@ -2,8 +2,12 @@
 The android application allows for bluetooth connection to the robot, control the movement of the robot and tracks the location of the obstacles and the live location of the robot.
 
 ## Functionality
+1. The android application connects to the Raspberry Pi (RPI) module through bluetooth, which in turn facilitates the connection between the application and the robot. 
+2. The android application controls the movement of the robot, allowing it to move forward, backward, right and left. 
+3. The android application displays a virtual arena that allows for marking of 10x10 obstacles and also displays the live location of the robot as it is moving in the arena. 
 
 ## Documentation 
+1. The entire MDP process has been documented in the following video: [Video](https://www.youtube.com/watch?v=-sx_L624OJE&list=LL&index=21&ab_channel=Noliferist)
 
 ## Developed by
 1. Bachhas Nikita 
