@@ -8,7 +8,6 @@ The android application allows for bluetooth connection to the robot, control th
 
 ## Documentation 
 1. The entire MDP process has been documented in the following video: [Video](https://www.youtube.com/watch?v=-sx_L624OJE&list=LL&index=21&ab_channel=Noliferist)
-2. Full Source Code: [SRC](https://github.com/limjiexian/CZ3004MDP)
 
 ## Developed by
 1. Bachhas Nikita 
