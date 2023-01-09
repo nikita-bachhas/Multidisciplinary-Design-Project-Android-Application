@@ -1,5 +1,5 @@
 # Multidisciplinary-Design-Project-Android-Application
-The android application allows for bluetooth connection to the robot, control the movement of the robot and tracks the location of the obstacles and the live location of the robot.
+The android application allows for bluetooth connection to the robot, controls the movement of the robot and tracks the location of the obstacles and the live location of the robot.
 
 ## Functionality
 1. The android application connects to the Raspberry Pi (RPI) module through bluetooth, which in turn facilitates the connection between the application and the robot. 
