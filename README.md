@@ -4,7 +4,7 @@ The android application allows for bluetooth connection to the robot, control th
 ## Functionality
 1. The android application connects to the Raspberry Pi (RPI) module through bluetooth, which in turn facilitates the connection between the application and the robot. 
 
-<img width="295" alt="Picture 2" src="https://user-images.githubusercontent.com/72136295/211237862-359afa6d-3b36-49a0-bd4a-2105ccd0dbc9.png">
+![Picture 3](https://user-images.githubusercontent.com/72136295/211238227-ee550e46-3684-4ae7-b9ac-effbbb67d93b.png)
 
 2. The application controls the movement of the robot, allowing it to move forward, backward, right and left. 
 
